@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/kickerroom_bg.qm</file>
+        <file alias="de">locale/kickerroom_de.qm</file>
+        <file alias="en">locale/kickerroom_en.qm</file>
+        <file alias="es">locale/kickerroom_es.qm</file>
+        <file alias="fi">locale/kickerroom_fi.qm</file>
+        <file alias="fr">locale/kickerroom_fr.qm</file>
+        <file alias="it">locale/kickerroom_it.qm</file>
+        <file alias="ja">locale/kickerroom_ja.qm</file>
+        <file alias="pl">locale/kickerroom_pl.qm</file>
+        <file alias="pt">locale/kickerroom_pt.qm</file>
+        <file alias="ru">locale/kickerroom_ru.qm</file>
+        <file alias="sk">locale/kickerroom_sk.qm</file>
+        <file alias="sv">locale/kickerroom_sv.qm</file>
+        <file alias="vi">locale/kickerroom_vi.qm</file>
+        <file alias="zh_CN">locale/kickerroom_zh_CN.qm</file>
+        <file alias="zh_TW">locale/kickerroom_zh_TW.qm</file>
+    </qresource>
+</RCC>

@@ -1,1 +1,1 @@
-# KickerRoomCoin
+KickerRoom Coin

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=KickerRoom
+Comment=KickerRoom P2P Cryptocurrency
+Exec=kickerroom-qt %u
+Terminal=false
+Type=Application
+Icon=kickerroom128
+MimeType=x-scheme-handler/kickerroom;
+Categories=Office;Finance;
+Name[en_US]=kickerroom-qt.desktop

@@ -1,0 +1,6 @@
+usr/local/bin/kickerroom-qt usr/bin
+share/pixmaps/kickerroom32.xpm usr/share/pixmaps
+share/pixmaps/kickerroom16.xpm usr/share/pixmaps
+share/pixmaps/kickerroom128.png usr/share/pixmaps
+debian/kickerroom-qt.desktop usr/share/applications
+debian/kickerroom-qt.protocol usr/share/kde4/services/
